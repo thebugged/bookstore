@@ -33,5 +33,4 @@ python manage.py runserver
 
 The app will be accessible at http://127.0.0.1:8000/.
 
-Also, its renamed from Litterarum to Pulp.
 
