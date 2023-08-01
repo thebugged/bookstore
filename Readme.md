@@ -1,6 +1,5 @@
 
-[![Bookstore](screenshot.png)](https://bookstore-iota-wine.vercel.app/)
-
+![Bookstore](screenshot.png)
 
 
 ## 
