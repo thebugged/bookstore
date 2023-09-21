@@ -1,5 +1,5 @@
 
-![bookstore](https://github.com/thebugged/bookstore/assets/74977495/fafdb09c-9668-41c3-a0ee-bd37b9c40cd7)
+![Bookstore](bookstore.gif)
 
 ## 
 # Bookstore
