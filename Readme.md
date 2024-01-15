@@ -1,7 +1,7 @@
 <div align="center">
   <br />
     <a href="">
-      <img src="https://github.com/thebugged/bookstore/assets/74977495/ad1ee1f9-0c7d-4489-b86a-893f5979554f"   alt="Banner">
+      <img src="https://github.com/thebugged/bookstore/assets/74977495/73f110a1-35c6-4960-bce1-120a278c2a33"   alt="Banner">
     </a>
   <br />
 
@@ -13,7 +13,6 @@
 </div>
 
   <h3 align="center">Bookstore</h3>
-
    <div align="center">
 A fully functional bookstore.
     </div>
@@ -24,6 +23,7 @@ A fully functional bookstore.
 **Prerequisites**
 
 Ensure the following are installed;
+- [Git](https://git-scm.com/)
 - [Python (3.x)](https://www.python.org/downloads/)
 
 To set up this project locally, follow these steps:
