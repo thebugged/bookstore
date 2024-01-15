@@ -1,20 +1,34 @@
+<div align="center">
+  <br />
+    <a href="">
+      <img src="https://github.com/thebugged/bookstore/assets/74977495/ad1ee1f9-0c7d-4489-b86a-893f5979554f"   alt="Banner">
+    </a>
+  <br />
 
-![Bookstore](bookstore.gif)
+  <div>
+    <img src="https://img.shields.io/badge/-HTML-black?style=for-the-badge&logoColor=white&logo=html5&color=E34F26" alt="html" />
+  <img src="https://img.shields.io/badge/-CSS-black?style=for-the-badge&logoColor=white&logo=css3&color=1572B6" alt="css" />
+  <img src="https://img.shields.io/badge/-JavaScript-black?style=for-the-badge&logoColor=white&logo=javascript&color=F7DF1E" alt="javascript" />
+  <img src="https://img.shields.io/badge/-Django-black?style=for-the-badge&logoColor=white&logo=django&color=092E20" alt="django" />
+</div>
 
-## 
-# Bookstore
-This is a simple bookstore web app built with HTML, CSS, JS and Django(backend).
+  <h3 align="center">Bookstore</h3>
 
+   <div align="center">
+A fully functional bookstore.
+    </div>
+</div>
+<br/>
 
-## Installation
+## Setup & Installation
+**Prerequisites**
 
+Ensure the following are installed;
+- [Python (3.x)](https://www.python.org/downloads/)
 
-### Prerequisites
-- Python (3.x)
+To set up this project locally, follow these steps:
 
-### Setting up the Environment
-
-#### Windows
+**Windows**
 1. Clone the repository:
 ```shell
 git clone https://github.com/thebugged/bookstore.git
@@ -35,8 +49,7 @@ env\Scripts\activate
 pip install -r requirements.txt
 ```
 
-
-#### macOS/Linux
+**macOS/Linux**
 1. Clone the repository:
 ```shell
 git clone https://github.com/thebugged/bookstore.git
@@ -56,8 +69,7 @@ source env/bin/activate
 ```shell
 pip install -r requirements.txt
 ```
-
-
+<br/>
 
 ## Running the App
 From project directory run the Django development server:
@@ -66,5 +78,4 @@ python manage.py runserver
 ```
 
 The app will be accessible at http://127.0.0.1:8000/.
-
 
