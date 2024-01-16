@@ -1,15 +1,15 @@
 <div align="center">
   <br />
     <a href="">
-      <img src="https://github.com/thebugged/bookstore/assets/74977495/73f110a1-35c6-4960-bce1-120a278c2a33"   alt="Banner">
+      <img src="https://github.com/thebugged/bookstore/assets/74977495/73f110a1-35c6-4960-bce1-120a278c2a33"   alt="banner">
     </a>
   <br />
 
   <div>
     <img src="https://img.shields.io/badge/-HTML-black?style=for-the-badge&logoColor=white&logo=html5&color=E34F26" alt="html" />
-  <img src="https://img.shields.io/badge/-CSS-black?style=for-the-badge&logoColor=white&logo=css3&color=1572B6" alt="css" />
-  <img src="https://img.shields.io/badge/-JavaScript-black?style=for-the-badge&logoColor=white&logo=javascript&color=F7DF1E" alt="javascript" />
-  <img src="https://img.shields.io/badge/-Django-black?style=for-the-badge&logoColor=white&logo=django&color=092E20" alt="django" />
+    <img src="https://img.shields.io/badge/-CSS-black?style=for-the-badge&logoColor=white&logo=css3&color=1572B6" alt="css" />
+    <img src="https://img.shields.io/badge/-JavaScript-black?style=for-the-badge&logoColor=white&logo=javascript&color=F7DF1E" alt="javascript" />
+    <img src="https://img.shields.io/badge/-Django-black?style=for-the-badge&logoColor=white&logo=django&color=092E20" alt="django" />
 </div>
 
   <h3 align="center">Bookstore</h3>
@@ -21,13 +21,11 @@ A fully functional bookstore.
 
 ## Setup & Installation
 **Prerequisites**
-
 Ensure the following are installed;
 - [Git](https://git-scm.com/)
 - [Python (3.x)](https://www.python.org/downloads/)
 
 To set up this project locally, follow these steps:
-
 **Windows**
 1. Clone the repository:
 ```shell
@@ -48,7 +46,7 @@ env\Scripts\activate
 ```shell
 pip install -r requirements.txt
 ```
-
+<br/>
 **macOS/Linux**
 1. Clone the repository:
 ```shell
