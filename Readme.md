@@ -20,12 +20,15 @@ A fully functional bookstore.
 <br/>
 
 ## Setup & Installation
+
 **Prerequisites**
+
 Ensure the following are installed;
 - [Git](https://git-scm.com/)
 - [Python (3.x)](https://www.python.org/downloads/)
 
 To set up this project locally, follow these steps:
+
 **Windows**
 1. Clone the repository:
 ```shell
@@ -46,7 +49,8 @@ env\Scripts\activate
 ```shell
 pip install -r requirements.txt
 ```
-<br/>
+
+
 **macOS/Linux**
 1. Clone the repository:
 ```shell
