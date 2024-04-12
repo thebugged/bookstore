@@ -11,6 +11,9 @@
       class="box-element"
       id="form-wrapper"
     >
+
+    <input type="hidden" id="csrf_token" value="{{ csrf_token }}">
+
       <form id="form">
         <div id="user-info">
           <div class="form-field">
@@ -159,6 +162,8 @@
 </script>
 
 <script type="text/javascript">
+  var csrftoken = document.getElementById("csrf_token").value;
+
   var shipping = "{{order.shipping}}"
 
   if (shipping == "False") {
@@ -180,6 +185,7 @@
 
   //csrftoken = form.getElementsByTagName('input')[0].value
   //console.log('Newtoken: ', form.getElementsByTagName('input')[0].value)
+
 
   form.addEventListener("submit", function (e) {
     e.preventDefault()
@@ -226,7 +232,7 @@
     fetch(url, {
       method: "POST",
       headers: {
-        "Content-Type": "applicaiton/json",
+        "Content-Type": "application/json",
         "X-CSRFToken": csrftoken,
       },
       body: JSON.stringify({ form: userFormData, shipping: shippingInfo }),
